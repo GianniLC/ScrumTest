@@ -375,6 +375,7 @@ MonoBehaviour:
     type: 3}
   bulletSpeed: 15
   fireDelay: 0.7
+  randomnummer: 0
 --- !u!212 &189799585
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -544,7 +545,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 381434034}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -33.57111, y: -0.0564003, z: -10}
+  m_LocalPosition: {x: -33.606834, y: -0.00009250641, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -5832,10 +5833,10 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -15.772386, y: 9.877359}
-      - {x: -51.36894, y: 9.878195}
-      - {x: -51.344307, y: -10.0564}
-      - {x: -15.633637, y: -10.016641}
+    - - {x: -15.80889, y: 10.012214}
+      - {x: -51.380844, y: 10.013049}
+      - {x: -51.433052, y: -10.102506}
+      - {x: -15.831905, y: -10.007042}
 --- !u!4 &466477949
 Transform:
   m_ObjectHideFlags: 0
